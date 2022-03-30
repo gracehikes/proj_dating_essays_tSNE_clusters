@@ -16,7 +16,7 @@ My analysis scope:
 * explore presence of clustering along dating app user features like age, gender and pet preferences
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/essay%20lengths%2030%2070%20140%20example.png" width=60% height=60%>
+  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/essay%20lengths%2030%2070%20140%20example.png" width=80%>
 </p>
 
 
@@ -30,7 +30,11 @@ When we reviewed the responses from “power users” of social media i.e. the y
 </p>
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20age.png" width=80% height=90%>
+  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20gender.png" width=90%>
+</p>
+
+<p align="center">
+  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20pet.png" width=90%>
 </p>
 
 
