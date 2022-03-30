@@ -39,4 +39,5 @@ When we reviewed the responses from “power users” of social media i.e. the y
 
 
 # More Details
-Full report found [here](/_project-report---youth-and-social-media---grace-yang.pdf).
+Full report found [here](/graceyang_final_thesis_filed.pdf).
+
