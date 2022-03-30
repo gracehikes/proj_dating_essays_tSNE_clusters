@@ -7,12 +7,12 @@ The first steps involve machine learning on text data, after which the text gets
 # Methodology
 While it is easy to understand and visualize two or three dimensions, it becomes impossible with the high-dimensional space of text embeddings. Google and Facebook have a couple of the current state-of-the-art language embedding algorithms out there. Google’s Universal Sentence Encoder which produces 512 embedding dimensions while Facebook’s Infersent churns out a whopping 4,096 dimensions!
 
-One of the ways of trying to visualize high-dimensional data is a tool called t-distributed Stochastic Neighbor Embedding or t-SNE. With t-SNE, we can look at the embeddings in two or three dimensional space. This is useful for checking if clusters existed in the data.
+One of the ways of trying to visualize high-dimensional data is a tool called t-distributed Stochastic Neighbor Embedding (t-SNE). With t-SNE, we can look at the embeddings in two or three dimensional space. This is useful for checking if clusters existed in the data.
 
 My analysis scope:
 * apply Google's Universal Sentence Encoder and get 512 embedding dimensions for each essay
-* apply t-Stochastic Neighbor Embedding (t-SNE) algorithm and reduce high-dimensional embeddings from 512 down to 2
-* limiting essay lengths to first 30, 70 and 140 characters and check for clusters in 2-dimensional visualized space 
+* apply t-SNE algorithm and reduce high-dimensional embeddings from 512 down to 2
+* limit essay lengths to first 30 / 70 / 140 characters and check for visual clusters in 2-dimensional space 
 * explore presence of clusters along features like dating app user's age, gender and pet preference
 
 <p align="center">
