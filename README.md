@@ -21,20 +21,12 @@ My analysis scope:
 
 
 # Results
-It appeared men and women write in very similar manner for their dating self-summaries. There were any clear clusters that could be visualized by age of the dating singles. For pet preference, I also did not see separate clusters for dog-lovers versus cat-lovers. 
+It appeared men and women write in very similar manner for their dating self-summaries - see visualizations below. There were no clear clusters to be visualized by age of the dating singles. For pet preference, I also did not see separate clusters for dog-lovers versus cat-lovers. 
 
 The longer the essay snippets used to generate embeddings, the closer the visualized data points start to merge to one another as shown in the diagrams below. The ability to see clusters (if any) favored shorter essay lengths.
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20age.png" width=95%>
-</p>
-
-<p align="center">
   <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20gender.png" width=95%>
-</p>
-
-<p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20pet.png" width=95%>
 </p>
 
 
