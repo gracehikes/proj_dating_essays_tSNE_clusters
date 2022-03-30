@@ -12,7 +12,7 @@ One of the ways of trying to visualize high-dimensional data is a tool called t-
 My analysis scope:
 * apply Google's Universal Sentence Encoder and get 512 embedding dimensions for each essay
 * apply t-SNE algorithm and reduce high-dimensional embeddings from 512 down to 2
-* limit essay lengths to first 30 / 70 / 140 characters and check for visual clusters in 2-dimensional space 
+* limit essay lengths to first 30 / 70 / 140 characters and look for clusters in 2-dimensional space 
 * explore presence of clusters along features like dating app user's age, gender and pet preference
 
 <p align="center">
