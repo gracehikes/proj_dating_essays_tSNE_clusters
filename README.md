@@ -26,7 +26,7 @@ The table below summarizes the measured effects of social media daily use on the
 When we reviewed the responses from “power users” of social media i.e. the young people who spent 4 or more hours per normal school day on social media (treatment group B), the estimated effects on well-being scores were all movement toward the more unhappy end of the 1-7 emoticon scale. Three out of the six indicators of mental well-being exhibited statistical significant treatment effects: feelings about school work (+0.37, p=0.02), school they went to (+0.69, p<0.00001), and life as a whole (+0.49, p=0.0004). 
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20age.png" width=100%>
+  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20age.png" width=95%>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ When we reviewed the responses from “power users” of social media i.e. the y
 </p>
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20pet.png" width=90%>
+  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20pet.png" width=95%>
 </p>
 
 
