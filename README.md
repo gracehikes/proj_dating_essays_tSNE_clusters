@@ -11,9 +11,9 @@ One of the ways of trying to visualize high-dimensional data is a tool called t-
 
 My analysis scope:
 * apply Google's Universal Sentence Encoder and get 512 embedding dimensions for each essay
-* apply t-Stochastic Neighbor Embedding (t-SNE) algorithm and reduce high-dimensional embeddings down to 2D
-* check 2D cluster visualizations by limiting essay lengths to first 30, 70 and 140 characters
-* explore presence of clustering along dating app user features like age, gender and pet preferences
+* apply t-Stochastic Neighbor Embedding (t-SNE) algorithm and reduce high-dimensional embeddings from 512 down to 2
+* limiting essay lengths to first 30, 70 and 140 characters and check for clusters in 2-dimensional visualized space 
+* explore presence of clusters along features like dating app user's age, gender and pet preference
 
 <p align="center">
   <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/essay%20lengths%2030%2070%20140%20example.png" width=70%>
