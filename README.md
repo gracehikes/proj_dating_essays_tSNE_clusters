@@ -7,7 +7,7 @@ The first steps involve machine learning on text data, after which the text gets
 One of the ways of trying to visualize high-dimensional data is a tool called t-distributed Stochastic Neighbor Embedding (t-SNE). With t-SNE, we can look at a representation of the high-dimensional embeddings in the two or three dimensional space. In the t-SNE algorithm paper ([L.van der Maaten and G. Hinton, 2008](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf?fbclid=IwA)), we can see 10 distinct clusters after high-dimensional embeddings for MNIST handwritten digits 0-9 were passed through the t-SNE algorithm and plotted in two dimensions.
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%2010%20MNIST%20clusters%20from%20paper.png" width=70%>
+  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%2010%20MNIST%20clusters%20from%20paper.png" width=60%>
 </p>
 
 
